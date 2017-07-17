@@ -4,6 +4,7 @@
 * Die Portalerweiterung für Risiko wird mit zwei Spielbrettern gespielt
 * Auf beiden Brettern gelten, falls im Folgenden nicht anders festgelegt, die Regeln der Risikoversion von 2010 (Spielanleitung [hier](https://www.hasbro.com/common/documents/dad2886d1c4311ddbd0b0800200c9a66/655CBCEE50569047F53E6EB2C4990FB6.pdf))
 * Die Anzahl der verfügbaren Verstärkungseinheiten wird, wie bei der Risikoversion von 2010 üblich, anhand der Anzahl der Sterne auf den gesammelten Länderkarten festgelegt. Wird ein Spielbrett verwendet, dessen Länderkarten statt Sternen eines von drei Bildern enthalten (Infanterie, Kavallerie, Artillerie), so werden diese Karten mit einem Stern gewertet. Ist der Spieler im Besitz von zwei Karten mit gleichem Bild, so wird ein Zusatzstern angenommen. Bei drei gleichen Bildern oder drei komplett unterschiedlichen Bildern werden zwei Zusatzsterne angenommen.
+* Es werden drei Verteidigerwürfel benötigt
 
 ## Portale
 * Bei einem Portal handelt es sich um eine zusätzliche Einheit. Jeder Spieler erhält **zu Beginn seines ersten Zugs** zwei Portale in seiner Farbe, die auf den beiden Spielbrettern frei in einem von ihm besetzten Land platzieren kann.
